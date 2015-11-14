@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>PULSE | RESPONSIVE ACADEMIC PERSONAL VCARD TEMPLATE</title>
+    <title>MOCKELYN Maxime - Vcard</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="">
@@ -106,7 +106,7 @@
         <div class="aside1">
             <a class="contact-button"><i class="fa fa-paper-plane"></i></a>
             <a class="download-button"><i class="fa fa-cloud-download"></i></a>
-            <div class="aside-content"><span class="part1">PULSE</span><span class="part2">Personal Vcard</span>
+            <div class="aside-content"><span class="part1">PULSE</span><span class="part2">Vcard</span>
             </div>
         </div>
         <aside class="hs-menu" id="hs-menu">
@@ -120,9 +120,9 @@
                     <img src="images/portrait.jpg" alt="" width="150" height="150" />
                 </div>
                 <div class="profile_info">
-                    <h1>Johnny smith</h1>
-                    <h4>WEB DESIGNER</h4>
-                    <h6><span class="fa fa-location-arrow"></span>&nbsp;&nbsp;&nbsp;San Francisco , CA</h6>
+                    <h1>MOCKELYN Maxime</h1>
+                    <h4>Développer</h4>
+                    <h6><span class="fa fa-location-arrow"></span>&nbsp;&nbsp;&nbsp;Les Sables d'Olonne (85) , FR</h6>
                 </div>
                 <div style="clear:both"></div>
             </div>
@@ -131,10 +131,10 @@
 
             <!-- menu -->
             <nav>
-                <a href="#section1"><span class="menu_name">ABOUT</span><span class="fa fa-home"></span> </a>
-                <a href="#section2"><span class="menu_name">RESUME</span><span class="fa fa-newspaper-o"></span> </a>
+                <a href="#section1"><span class="menu_name">A PROPOS</span><span class="fa fa-home"></span> </a>
+                <a href="#section2"><span class="menu_name">CV</span><span class="fa fa-newspaper-o"></span> </a>
                 <a href="#section3"><span class="menu_name">SERVICES</span><span class="fa fa-laptop"></span> </a>
-                <a href="#section4"><span class="menu_name">PROCESS &amp; TEAM</span><span class="fa fa-users"></span> </a>
+                <a href="#section4"><span class="menu_name">MES IDEES / MES REFLETS</span><span class="fa fa-users"></span> </a>
                 <a href="#section5"><span class="menu_name">PRICING</span><span class="fa fa-money"></span> </a>
                 <a href="#section6"><span class="menu_name">SKILLS</span><span class="fa fa-diamond"></span> </a>
                 <a href="#section7"><span class="menu_name">WORKS</span><span class="fa fa-archive"></span> </a>

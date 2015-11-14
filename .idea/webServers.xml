@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc655a29-5b9e-49e7-b07a-037cf2e606d6" name="mockelyn-maxime" url="http://ftp.cluster011.ovh.net">
+        <fileTransfer host="ftp.cluster011.ovh.net" port="21" rootFolder="/www" password="df9bdf93df93df98dfe7dfcbdfd2dfc3dfc7dfcf" username="mockelynhp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
