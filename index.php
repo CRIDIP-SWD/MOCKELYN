@@ -134,10 +134,8 @@
                 <a href="#section1"><span class="menu_name">A PROPOS</span><span class="fa fa-home"></span> </a>
                 <a href="#section2"><span class="menu_name">CV</span><span class="fa fa-newspaper-o"></span> </a>
                 <a href="#section3"><span class="menu_name">SERVICES</span><span class="fa fa-laptop"></span> </a>
-                <a href="#section4"><span class="menu_name">MES IDEES / MES REFLETS</span><span class="fa fa-users"></span> </a>
-                <a href="#section5"><span class="menu_name">PRICING</span><span class="fa fa-money"></span> </a>
-                <a href="#section6"><span class="menu_name">SKILLS</span><span class="fa fa-diamond"></span> </a>
-                <a href="#section7"><span class="menu_name">WORKS</span><span class="fa fa-archive"></span> </a>
+                <a href="#section6"><span class="menu_name">COMPETENCES</span><span class="fa fa-diamond"></span> </a>
+                <a href="#section7"><span class="menu_name">PROJETS</span><span class="fa fa-archive"></span> </a>
                 <a href="#section8"><span class="menu_name">CONTACT</span><span class="fa fa-paper-plane"></span> </a>
             </nav>
             <!-- end menu-->
